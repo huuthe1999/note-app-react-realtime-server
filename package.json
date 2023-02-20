@@ -1,0 +1,8 @@
+{
+  "name": "note-app-react-realtime-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/huuthe1999/note-app-react-realtime-server]",
+  "author": "Huu The <huuthe128@gmail.com>",
+  "license": "MIT"
+}
